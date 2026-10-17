@@ -1,3 +1,13 @@
+**Python components for network neuroscience**
+
+This is a development fork of `netneurotools <https://github.com/netneurolab/netneurotools>`__, a toolbox from McGill's Network Neuroscience Lab. Upstream provides dataset fetchers, empirical and surrogate network construction, graph metrics, statistics, and brain-network visualization. It is useful for connecting data preparation with network analysis in Python research workflows.
+
+**Contribution to review:** `PR #186 <https://github.com/netneurolab/netneurotools/pull/186>`__ proposes an explicit extraction filter for downloaded TAR archives. The contribution concerns dataset retrieval and extraction; its implementation and review status are documented in the linked upstream proposal.
+
+Begin with the `official documentation <https://netneurolab.github.io/netneurotools/>`__ for installation and examples. The original README explains version choices and preserves citation guidance for both the toolbox and redistributed datasets. The `branch comparison <https://github.com/netneurolab/netneurotools/compare/main...jdotc1:main>`__ shows this fork's default branch alongside upstream.
+
+----
+
 netneurotools: Tools for network neuroscience
 =============================================
 
